@@ -1,15 +1,14 @@
 import "./App.css"
-import Title from "./Title.jsx"
-import Product from "./Product.jsx"
+import Button from "./Button.jsx"
 import ProductTab from "./ProductTab.jsx"
 
-
 function App() {
-  return(
-    <div>
-  <Title/>
-  <ProductTab/>
-</div>
+  return (
+    <>
+      <h1>Amazing Deals</h1>
+      <ProductTab />
+      <Button/>
+    </>
   )
 }
 

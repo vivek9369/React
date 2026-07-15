@@ -1,7 +1,9 @@
-.Product{
-    border: 1px  solid rgb(219, 28, 28);
-    border-radius:  24px;
-    background-color: pink;
-    margin-bottom: 5px;
-    padding: 0 10px 0 10px;
+.Product {
+  border: 1px solid rgb(219, 28, 28);
+  border-radius: 24px;
+  background-color: pink;
+  margin: 5px 0 5px 15px;
+  padding: 0 10px;
+  width: 220px;
+  height: 150px;
 }

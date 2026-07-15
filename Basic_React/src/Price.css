@@ -1,0 +1,19 @@
+.price-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 4px;
+}
+
+.price-old {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+  text-decoration: line-through;
+  font-weight: 400;
+}
+
+.price-new {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--green);
+}
