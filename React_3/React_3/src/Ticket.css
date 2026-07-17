@@ -1,0 +1,10 @@
+.Ticket {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    border: 1px solid black;
+    border-radius: 14px;
+    padding: 10px 20px;
+    font-size: 30px;
+}
